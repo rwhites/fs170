@@ -6,7 +6,7 @@ fclose($clean);
 $coli = array('https://itunes.apple.com','http://www.youtube.com','http://soundcloud.com','http://spotify.com','http://www.joox.com');
 $redir = $coli[rand(0,(count($coli)-1))];
 
-if(empty($_GET['crot']))
+if(empty($_GET['id']))
 {
 echo '<!DOCTYPE html>
 <html style="height:100%">
