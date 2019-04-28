@@ -8,8 +8,7 @@ $redir = $coli[rand(0,(count($coli)-1))];
 
 if(empty($_GET['id']))
 {
-echo '<!DOCTYPE HTML>
-<html>
+echo '<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="theme-color" content="#d6c9a5" />
