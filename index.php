@@ -82,7 +82,7 @@ text-shadow: 0 0 6px #000;
 <body>
 <center>
 <div class="panel">
-<h2 style="font-size:70px;text-shadow: 0 0 6px #963d2c;font-family: Fredericka the Great">404 NOT FOUND !!!</h2>
+<h2 style="font-size:70px;text-shadow: 0 0 6px #963d2c;font-family: Fredericka the Great">404 NOT FOUND</h2>
 <h2 style="font-family: Ubuntu">Error Database Not Connect With A System<br/>Please Comeback Later...</h2>
 </div>
 </center>
