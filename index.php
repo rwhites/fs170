@@ -88,7 +88,9 @@ text-shadow: 0 0 6px #000;
 </center>
 </body>
 </html>';
-}else{
+}
+else
+{
 $uri = isset($_GET['id']) ? $_GET['id']: null;
 $url = hex2bin($uri);
 header("Location:".$url);
